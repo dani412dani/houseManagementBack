@@ -1,0 +1,5 @@
+insert into apertments(adress, is_building, user_id)
+values ('pinchas miller 19, nof-hagalil', true, 3)
+
+insert into faults(tytle, content, apertment_id)
+values ('The window is broken', 'The glass in the window in the childrens room needs to be replaced', 1)
